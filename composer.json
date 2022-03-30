@@ -6,8 +6,7 @@
     "type": "project",
     "require": {
         "php": "^7||^8",
-        "laravel/framework": "^8",
-        "laravel/tinker": "^2"
+        "laravel/framework": "^9"
     },
     "require-dev": {
         "fzaninotto/faker": "^1",
